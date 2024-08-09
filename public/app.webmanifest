@@ -1,0 +1,11 @@
+{
+  "name": "Kuh- R",
+  "short_name": "KuhR",
+  "theme_color": "#bfdbfe",
+  "background_color": "#bffbfe",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://kuh-r.vercel.app/",
+  "description": "Kuh- R is a QR code generator.",
+  "orientation": "any"
+}
